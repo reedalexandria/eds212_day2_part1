@@ -51,5 +51,5 @@ Github = a way to use Git and collaborate
 usethis::get_git()
 usethis::use_github()
 
-
+Staging = ready to send to local Git repo --> commit 
 
