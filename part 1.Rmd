@@ -46,11 +46,15 @@ eval(dg_dz)
 
 ```
 
+# Notes
+
 Git = software for version control
 Github = a way to use Git and collaborate 
 usethis::get_git()
 usethis::use_github()
 
-Staging = ready to send to local Git repo --> commit 
+Staging = ready to send to local Git repo --> Commit --> Push
 
-Adding info to review changes locally and in Git
+usethis::git_default_branch_rename () is used to rename Master to Main
+
+
