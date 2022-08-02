@@ -53,3 +53,4 @@ usethis::use_github()
 
 Staging = ready to send to local Git repo --> commit 
 
+Adding info to review changes locally and in Git
